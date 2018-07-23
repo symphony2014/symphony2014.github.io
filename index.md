@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thinking angular in depth.
 
 You can use the [editor on GitHub](https://github.com/symphony2014/symphony2014.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

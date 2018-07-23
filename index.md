@@ -1,4 +1,4 @@
-## Thinking angular in depth.
+## angular里面关于编译的理解
 
 You can use the [editor on GitHub](https://github.com/symphony2014/symphony2014.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+###目前正处于离职状态,希望找一份front-end full stack 的工作。欢迎合作。
+邮箱：symphony2013@outlook.com
+qq:1265474050
+联系方式：15513092360
+
+如果你觉得文章写的好，欢迎打赏以资鼓励：
+
+![avatar](/resources/imgs/1532319667058.jpg)
+
